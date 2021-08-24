@@ -12,6 +12,8 @@ const HeroSection = () => {
         loop
         muted
       />
+      <h1>Hello</h1>
+      <p>Welcome to this website</p>
       <div className='hero-btns'>
         <Button
           className='btns'
